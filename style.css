@@ -6,6 +6,11 @@ a i:hover {
     transform: scale(10px);
 }
 
+.heroSection-text{
+  font-size: 2rem;
+  font-weight: 600;
+}
+
 body {
   background: rgb(238, 174, 202);
   background: radial-gradient(
